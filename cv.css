@@ -1,0 +1,67 @@
+.bag{
+    background-image: url("bk1.jpg");
+}
+
+ 
+
+
+.border{
+
+    height: 180px;
+    background-color:#708090;
+    width: 100%;
+    max-width: 1000px;
+
+    
+}
+.container{
+    
+    font-size: 20px;
+    text-align: center;
+    padding-top: 17px;
+}
+.main{
+    
+    font-size: 20px;
+    text-align: center;
+
+}
+.contact{
+    width: 40%;
+    vertical-align: top;
+    padding: 0px 10px;
+    background-color: lightgrey;
+}
+.career{
+    width: 58%;
+    vertical-align: top;
+    padding: 0px 10px;
+}
+
+.p5{
+    
+    text-align: left;
+    color:#708090;
+}
+.pl10{
+    padding-left: 10px;
+    padding: 10px;
+}
+button{
+    font-size: 25px;
+    padding: 10px 20px;
+    margin: 50px 0 50px 140px;
+    background-color: rgb(83, 83, 83);
+    border: none;
+    outline: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+
+
+
+}
+button:hover{
+    background-color: rgb(218, 221, 9);
+}
